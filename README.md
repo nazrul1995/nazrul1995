@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazrul Islam</h1>
 <h3 align="center">Full-Stack MERN Developer | Node.js | React | Redux | Firebase | Deployment Expert</h3>
 
-<p align="center"> <img src="https://i.ibb.co.com/YBfRqbgJ/image-3.jpg" /></p>
+<p align="center"> <img src="https://i.ibb.co.com/SwbtzyvB/Banner-Img.jpg" /></p>
 
 ---
 
@@ -27,6 +27,19 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Surge-FF3E00?style=for-the-badge&logo=surge&logoColor=white"/>
 </p>
+
+## 🛠️ Skills
+
+### Frontend
+| HTML | CSS | JavaScript | React | Redux | jQuery | Bootstrap | Tailwind CSS | Daisy UI |
+|------|-----|------------|-------|-------|--------|-----------|--------------|----------|
+| <img src="https://skillicons.dev/icons?i=html" height="40"/> | <img src="https://skillicons.dev/icons?i=css" height="40"/> | <img src="https://skillicons.dev/icons?i=javascript" height="40"/> | <img src="https://skillicons.dev/icons?i=react" height="40"/> | <img src="https://skillicons.dev/icons?i=redux" height="40"/> | <img src="https://skillicons.dev/icons?i=jquery" height="40"/> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> | <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> | <img src="https://skillicons.dev/icons?i=daisyui" height="40"/> |
+
+### Backend
+| Node.js | Express.js | PHP |
+|---------|------------|-----|
+| <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> | <img src="https://skillicons.dev/icons?i=expres
+
 
 ---
 
