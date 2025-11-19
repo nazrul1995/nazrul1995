@@ -15,30 +15,41 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Surge-FF3E00?style=for-the-badge&logo=surge&logoColor=white"/>
-</p>
-
 ## 🛠️ Skills
 
 ### Frontend
-| HTML | CSS | JavaScript | React | Redux | jQuery | Bootstrap | Tailwind CSS | Daisy UI |
-|------|-----|------------|-------|-------|--------|-----------|--------------|----------|
-| <img src="https://skillicons.dev/icons?i=html" height="40"/> | <img src="https://skillicons.dev/icons?i=css" height="40"/> | <img src="https://skillicons.dev/icons?i=javascript" height="40"/> | <img src="https://skillicons.dev/icons?i=react" height="40"/> | <img src="https://skillicons.dev/icons?i=redux" height="40"/> | <img src="https://skillicons.dev/icons?i=jquery" height="40"/> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> | <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> | <img src="https://skillicons.dev/icons?i=daisyui" height="40"/> |
+| HTML | CSS | JavaScript | React | Redux | jQuery | Bootstrap | Tailwind CSS |
+|------|-----|------------|-------|-------|--------|-----------|--------------|
+| <img src="https://skillicons.dev/icons?i=html" height="40"/> | <img src="https://skillicons.dev/icons?i=css" height="40"/> | <img src="https://skillicons.dev/icons?i=javascript" height="40"/> | <img src="https://skillicons.dev/icons?i=react" height="40"/> | <img src="https://skillicons.dev/icons?i=redux" height="40"/> | <img src="https://skillicons.dev/icons?i=jquery" height="40"/> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> | <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
 
 ### Backend
 | Node.js | Express.js | PHP |
 |---------|------------|-----|
-| <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> | <img src="https://skillicons.dev/icons?i=expres
+| <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> | <img src="https://skillicons.dev/icons?i=express" height="40"/> | <img src="https://skillicons.dev/icons?i=php" height="40"/> |
+
+### Database
+| MongoDB | Firebase |
+|---------|---------|
+| <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> | <img src="https://skillicons.dev/icons?i=firebase" height="40"/> |
+
+### Tools & Technologies
+| VS Code | PhpStorm | Photoshop | Figma | Git | Vercel | Netlify |
+|---------|----------|----------|-------|-----|--------|--------|
+| <img src="https://skillicons.dev/icons?i=vscode" height="40"/> | <img src="https://skillicons.dev/icons?i=phpstorm" height="40"/> | <img src="https://skillicons.dev/icons?i=photoshop" height="40"/> | <img src="https://skillicons.dev/icons?i=figma" height="40"/> | <img src="https://skillicons.dev/icons?i=git" height="40"/> | <img src="https://skillicons.dev/icons?i=vercel" height="40"/> | <img src="https://skillicons.dev/icons?i=netlify" height="40"/> |
+
+---
+
+## 👀 GitHub Stats & Visitor Count
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazrul1995&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazrul1995&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nazrul1995&style=flat-square" alt="Profile Visitor Count" />
+</p>
+
 
 
 ---
@@ -71,15 +82,7 @@
 <a href="mailto:independentnazrul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
 
-## 👀 Visitors
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/nazrul1995/count.svg" alt="Profile Visitor Count" />
-</p>
-
----
 
 ## ✨ Quote  
 > “Great developers are not born — they are built through consistency and practice.”
